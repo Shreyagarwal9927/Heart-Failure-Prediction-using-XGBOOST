@@ -1,12 +1,13 @@
 # Heart-Failure-Prediction-using-XGBOOST
-Dataset is taken from kaggle "https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction".This dataset contains 11 features that can be used to predict possible heart disease.
+Dataset is taken from kaggle "https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction".
+This dataset contains 11 features that can be used to predict possible heart disease.
 
 Cardiovascular disease (CVDs) is the number one cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of five CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs.
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management.
 
 Let's train a machine learning model to assist with diagnosing this disease.
 
-Attribute Information
+#Attribute Information:-
 
 Age: age of the patient [years]
 
