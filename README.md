@@ -33,3 +33,11 @@ ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, 
 
 HeartDisease: output class [1: heart disease, 0: Normal]
 
+It includes different models:-
+
+1.Decision Tree
+
+2.Random Forest
+
+3.XGBOOST
+
